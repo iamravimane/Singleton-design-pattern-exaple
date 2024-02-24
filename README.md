@@ -1,2 +1,2 @@
-# Singleton-design-pattern-exaple
+# Singleton-design-pattern-example
 How to implement singleton design pattern 
